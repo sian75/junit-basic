@@ -13,8 +13,13 @@ public class BookRepositoryTest {
     // 1. 책등록
     @Test
     public void book_test() {
-        System.out.println("책등록_test 실행");
+        //given(데이터준비)
 
+        //when(테스트실행)
+
+        //then(검증)
+        
+        System.out.println("책등록_test 실행");
     }
     // 2. 책 목록보기
 
